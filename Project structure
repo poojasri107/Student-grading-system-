@@ -1,0 +1,12 @@
+Student-Grading-System/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── images/
+│   └── icons/
+│
+├── README.md
+└── .gitignore
